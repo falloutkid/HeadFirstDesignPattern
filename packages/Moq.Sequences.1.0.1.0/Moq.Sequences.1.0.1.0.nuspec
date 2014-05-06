@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Moq.Sequences</id>
+    <version>1.0.1.0</version>
+    <title>Moq.Sequences</title>
+    <authors>Declan Whelan</authors>
+    <owners>Declan Whelan</owners>
+    <licenseUrl>https://github.com/dwhelan/Moq-Sequences/blob/master/License.txt</licenseUrl>
+    <projectUrl>https://github.com/dwhelan/Moq-Sequences</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Supports checking that Moq setups are executed in sequence.</description>
+    <releaseNotes>Added NuGet support.</releaseNotes>
+    <copyright />
+    <language />
+    <tags>Moq mock .net40</tags>
+    <dependencies>
+      <dependency id="Moq" version="4.0" />
+      <dependency id="NUnit" version="2.5" />
+    </dependencies>
+  </metadata>
+</package>
